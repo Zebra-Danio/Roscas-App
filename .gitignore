@@ -1,0 +1,26 @@
+# Flutter/Dart specific
+.dart_tool/
+build/
+ios/Flutter/AppFrameworkInfo.plist
+ios/Flutter/flutter_export_environment.sh
+ios/Podfile.lock
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.symlinks/
+ios/build/
+macos/Flutter/
+macos/Podfile.lock
+macos/Pods/
+macos/Runner.xcworkspace/
+web/
+.idea/
+.DS_Store
+
+# Firebase specific (if you use Firebase)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+lib/firebase_options.dart // VERY IMPORTANT: Exclude your firebase_options
+
+# Other common files
+*.iml
+*.swp

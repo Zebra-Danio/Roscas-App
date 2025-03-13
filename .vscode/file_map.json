@@ -1,0 +1,26 @@
+{
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "4959f31377960031a5994c7f9fc523d6743d5007172d5b8239031bb88d8ee189",
+    "original_checksum": "4959f31377960031a5994c7f9fc523d6743d5007172d5b8239031bb88d8ee189"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "23ce6bb36f6f12d790e57f93781cf8ecb25e074f7d649e2159cc08c08da82a1a",
+    "original_checksum": "44f5c1858f059ea70d0bad6fed7e5164b8997d7c23c1742f84674935e2b5c0f7"
+  },
+  "remove_circle_from_user.dart": {
+    "old_identifier_name": "removeCircleFromUser",
+    "new_identifier_name": "removeCircleFromUser",
+    "type": "A",
+    "is_deleted": false,
+    "original_checksum": "53ab0f2cda75339d56a44b34eb90efe8e19557f752750273a9aa679892e22762",
+    "current_checksum": "53ab0f2cda75339d56a44b34eb90efe8e19557f752750273a9aa679892e22762"
+  }
+}
